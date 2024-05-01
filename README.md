@@ -7,6 +7,7 @@
 - Add music!
 
 ## Image upon opening
-![Uploading Screenshot 2024-05-01 173144.png…]()
+![Screenshot 2024-05-01 173144](https://github.com/hol-hen/ddr_gpn_extension/assets/115449832/8146705c-3ca3-4294-b473-e91620d866ca)
+
 
 
